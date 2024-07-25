@@ -1,0 +1,17 @@
+* {
+    margin: 12px;
+    padding: 0px;
+}
+body {
+    background-color: black;
+    color: white;
+}
+.game {
+    font-size: 6rem;
+}
+
+.logo {
+    align-items: center;
+    width: 150px;
+
+}
