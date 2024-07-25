@@ -4,14 +4,14 @@
 }
 body {
     background-color: black;
-    color: white;
+    color: hsl(0, 0%, 100%);
+    font-family: 'inter', sans-serif ;
 }
 .game {
     font-size: 6rem;
 }
 
 .logo {
-    align-items: center;
-    width: 150px;
+   
 
 }
